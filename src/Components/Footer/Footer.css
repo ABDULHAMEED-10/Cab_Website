@@ -93,6 +93,9 @@
 .copyright {
   color: rgb(129, 116, 116);
   font-size: smaller;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Rest 3 Columns */

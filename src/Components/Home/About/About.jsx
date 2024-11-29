@@ -20,17 +20,16 @@ const About = () => {
             <h1>Your Destination, Our Commitment</h1>
 
             <p>
-              At Aylestone Taxis, we are dedicated to provide safe, reliable,
-              and efficient transportation solutions, ensuring every ride is
+              At Aylestone, we are dedicated to providing safe, reliable, and
+              efficient transportation solutions, ensuring every journey is
               comfortable and punctual. With our team of experienced drivers and
-              a commitment to exceptional service, we make getting to your
-              destination a breeze.
+              a commitment to exceptional service, we make reaching your
+              destination effortless.
             </p>
             <p>
-              Our professional drivers and modern fleet ensure you reach your
-              destination safely and on time, every time. Experience the
-              difference with our commitment to outstanding customer care and
-              reliability.
+              Our professional drivers and modern fleet guarantee you arrive
+              safely and on time, every time. Experience the difference with our
+              unwavering focus on outstanding customer care and reliability.
             </p>
           </div>
         </div>
@@ -40,9 +39,10 @@ const About = () => {
           <div className="about_left">
             <h1>Download Our App!</h1>
             <p>
-              You can easily access our app from playstore or appstore, where
-              you can easily book a ride. It also provides pre-booking feature
-              for your future plans.
+              You can conveniently access our app on the Play Store or App
+              Store, allowing you to effortlessly book a ride. Additionally, our
+              app offers a pre-booking feature to help you plan your future
+              journeys with ease.
             </p>
 
             <div className="download">

@@ -15,8 +15,14 @@
   flex-basis: 50%;
   position: relative;
 }
+.about_left h1 {
+  padding-bottom: 10px;
+}
 .about_right {
   flex-basis: 50%;
+}
+.about_right h1 {
+  padding-bottom: 10px;
 }
 .about_img {
   width: 100%;
@@ -46,4 +52,8 @@
   display: flex;
   align-items: center;
 }
+.download .btn1 {
+  border: 1px solid rgba(67, 145, 171, 0.7);
+}
+
 /*Responsive*/
