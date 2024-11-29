@@ -29,7 +29,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link to="/ContactPage">
-            <button className="btn1">
+            <button className="contactbtn">
               Contact us <img src={Contact_icon} alt="" />
             </button>
           </Link>

@@ -46,10 +46,8 @@ const Footer = () => {
           </div>
           <div className="c_right">
             <span className="copyright">
-              Copyright.Web made By Roman Akhtar
-              <a href="https://wa.me/+923000713725">
-                <span> +923000713725</span>
-              </a>
+              All Rights Reserved 2024 | Aylestone Kings
+              <a href="https://wa.me/+923000713725"></a>
             </span>
           </div>
         </div>

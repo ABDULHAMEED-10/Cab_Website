@@ -16,9 +16,9 @@ const Hero = () => {
             there in time.
           </p>
 
-          <Link to="/ContactPage">
+          <Link to="https://aylestonekings.webbooker.icabbi.com/">
             <button className="btn1">
-              <a href="#contact"></a>Book Now <img src={Book_icon} alt="" />
+              <a href="#t"></a>Book Now <img src={Book_icon} alt="" />
             </button>
           </Link>
           <div className="col">
